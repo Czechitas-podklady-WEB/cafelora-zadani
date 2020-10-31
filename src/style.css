@@ -111,7 +111,7 @@ nav a:hover {
   cursor: pointer;
 }
 
-.nav-btn:focus:not(:focus-visible) {
+.nav-btn:focus {
   outline: none;
 }
 
